@@ -1,3 +1,1 @@
-<p align="center">
-    <img src="./.readme/light.gif"/>
-</p>
+![Who is inventing the future?](./.readme/light.gif)
